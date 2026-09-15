@@ -1,0 +1,19 @@
+
+
+@media(max-width: 700px)
+{    
+    head.img:{
+    width: 250px; 
+    }
+
+    header p{
+    font-size: 20px;
+    color: blue;
+    }
+
+    header h1{
+    font-size: 20px;
+    color: rgb(69, 69, 158);
+    }
+    
+   
